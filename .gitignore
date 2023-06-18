@@ -4,3 +4,6 @@ movie-catalog-service/movie-catalog-service/gradlew.bat
 movie-info-service/movie-info-service/gradle
 movie-info-service/gradlew
 movie-info-service/gradlew.bat
+rating-data-service/gradle
+rating-data-service/gradlew
+rating-data-service/gradlew.bat
