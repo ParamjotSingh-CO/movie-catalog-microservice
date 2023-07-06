@@ -7,3 +7,5 @@ movie-info-service/gradlew.bat
 rating-data-service/gradle
 rating-data-service/gradlew
 rating-data-service/gradlew.bat
+*.bat
+discovery-server/gradlew
